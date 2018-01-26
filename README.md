@@ -3,6 +3,17 @@ Welcome! Wellminder is a full stack, responsive web application built with React
 
 The app is deployed <a href="https://wellminder.herokuapp.com" target="_blank">here!</a>
 
+## Tech Stack
+#### Frontend
+* HTML & CSS(Materialize)
+* React
+* D3
+#### Backend
+* Node
+* Firebase (Auth and database storage)
+#### Deployment
+* Heroku
+
 
 
 ## Login Page
