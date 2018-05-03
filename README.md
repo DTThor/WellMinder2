@@ -1,5 +1,5 @@
 # Wellminder
-Welcome! Wellminder is a full stack, responsive web application built with React and D3 that tracks and "gamifies" wellness, encouraging users toward positive health choices. This app was built in 5 days by @Rmcavin, @mandafae, and @dtthor for our Q3 project at Galvanize in Austin, TX.
+Hello and welcome! Wellminder is a full stack, responsive web application built with React and D3 that tracks and "gamifies" wellness, encouraging users toward positive health choices. This app was built in 5 days by @Rmcavin, @mandafae, and @dtthor for our Q3 project at Galvanize in Austin, TX.
 
 The app is deployed <a href="https://wellminder.herokuapp.com" target="_blank">here!</a>
 
