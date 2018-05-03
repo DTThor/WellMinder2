@@ -46,5 +46,5 @@ This is the first non-trivial full stack React application that any of us have b
 - We decided against Redux because our app only has one parent component and 5 children components, all siblings. If our app went down one or two more levels it would have made more since to use Redux, but since it was just two levels total we decided Redux would have been unnecessary and/or more confusing than helpful.
 
 3. Sending and storing our data properly in Firebase.
-- Firebase doesn’t store arrays natively, which was a little annoying, but we were able to work around this by sending it two objects in a list, sort of tricking firebase into accepting the array we were trying to send it.
+- Firebase doesn’t store Javascript arrays natively, which was a little annoying, but we were able to work around this by sending it two objects in a list, sort of tricking firebase into accepting the array we were trying to send it.
 
